@@ -155,7 +155,7 @@ public class Adam_Player_Controller : MonoBehaviour
 
     private void CameraFollow()
     {
-        camTransform.position = thisTransform.position + camOffsetPos;
+        //camTransform.position = thisTransform.position + camOffsetPos;
     }
 
     private void OnGUI()
